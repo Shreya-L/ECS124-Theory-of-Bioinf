@@ -77,4 +77,4 @@ Example:
  The similarity value of the two strings is 21
  ```
  
-The above example is exactly the same for the needlemangap.pl script as well. 
+The above example is exactly the same for the needlemanGap.pl script as well. 
