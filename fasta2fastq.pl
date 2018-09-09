@@ -6,7 +6,7 @@ $filename = <>;
 open IN, "$filename";
 print "Please input the name of the file to print to.\n";
 $outfile = <>;
-open OUT1, '>myoutputfile';
+open OUT1, "$outfile";
 
 
 $count = 1;
